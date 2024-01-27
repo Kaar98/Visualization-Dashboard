@@ -14,7 +14,6 @@ Here are some enticing snapshots showcasing the features and functionalities of 
 ![region distribution feature](./images/Screenshot%20(214).png)
 ![region distribution feature](./images/Screenshot%20(213).png)
 ![intensity chart feature](./images/Screenshot%20(212).png)
-![intensity chart feature](./images/Screenshot%20(211).png)
 
 
 
